@@ -5,7 +5,10 @@
 
 ------------
 ###  Overview
-I had worked as an economist for 5+ years, when I took a web development course and fell in love with programming. I am a really ***hard-working*** and ***result-oriented*** person. I never stop ***improving my skills***. I am both good at being a ***team-player and working individually***. I have ***worked in many different sectors*** including manufacturing, construction, retail and IT, so I am certain I can make a valuable addition to any project I am involved in. I have a nice sense of humor, love reading, solving puzzles and drawing illustrations.
+ Though I am not a student of Computer Science, I am a self-taught web enthusiast who is eager to start working in a team.
+ I am a really hard-working and result-oriented person. I never stop improving my skills and investigating new technologies. 
+ I have worked in many different sectors including manufacturing, construction, retail and IT, so I am certain I can make a valuable addition to any project I am involved in. 
+ I have a nice sense of humor, love reading, solving puzzles and drawing illustrations.
 
 ------------
 
