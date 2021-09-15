@@ -10,6 +10,7 @@
  I have worked in many different sectors including manufacturing, construction, retail and IT, so I am certain I can make a valuable addition to any project I am involved in. 
  I possess good soft skills, have a nice sense of humor, love reading, playing my ukulele, solving puzzles, and drawing illustrations.
 
+##see some of my projects below
 ------------
 
 ### Skills
@@ -41,3 +42,21 @@
 - Russian – Native
 - Polish – A1
 - Spanish – A1
+
+### Some projects overview
+# Long-Term-Bets
+(TypeScript, ReactJS, Firebase)
+![LongTermBets](https://github.com/Kapuchinskaya/Long-Term-Bets/blob/main/long-term-bets.jpg)
+
+# Kindergarten website
+(ReactJS, Firebase, material-ui etc.)
+![Kindergarten](https://github.com/Kapuchinskaya/Kindergarten/blob/main/kindergarten-1.jpg)
+
+# Projects to learn React
+* ManCityHooks - includes firebase, autentication, routes, libraries etc.
+* HappyBday - a landing page
+* ReadingList / SongList / Blog - hooks and context
+![ManCity](https://github.com/Kapuchinskaya/ReactJSstudy/blob/main/ManCityHooks/mancity-hooks/screenshots/MS.jpg)
+![HappyBDay](https://github.com/Kapuchinskaya/ReactJSstudy/blob/main/HappyBday/Bday.jpg)
+
+and others
