@@ -45,25 +45,25 @@
 
 ### Some projects overview
 # Long-Term-Bets
-(TypeScript, ReactJS, Firebase)
+(using TypeScript, ReactJS, Firebase)<br/>
 ![LongTermBets](https://github.com/Kapuchinskaya/Long-Term-Bets/blob/main/long-term-bets.jpg)
 
 # Kindergarten website
-(ReactJS, Firebase, material-ui etc.)
+(using ReactJS, Firebase, material-ui etc.)<br/>
 ![Kindergarten](https://github.com/Kapuchinskaya/Kindergarten/blob/main/kindergarten-1.jpg)
 
 # Projects to learn React
 * ManCityHooks - includes firebase, autentication, routes, libraries etc.
 * HappyBday - a landing page
-* ReadingList / SongList / Blog - hooks and context </br>
+* ReadingList / SongList / Blog - hooks and context <br/>
 ![ManCity](https://github.com/Kapuchinskaya/ReactJSstudy/blob/main/ManCityHooks/mancity-hooks/screenshots/MS.jpg)
 ![HappyBDay](https://github.com/Kapuchinskaya/ReactJSstudy/blob/main/HappyBday/Bday.jpg)
 
 # Projects to learn HTML and CSS
 * omnifood - project for course *"Build Responsive Real World Websites with HTML5 and CSS3"*
-* restaurant - task for rs-school</br>
+* restaurant - task for rs-school<br/>
 ![omnifood](https://github.com/Kapuchinskaya/HTMLstudy/blob/main/screenshots/HTML-omni-1.jpg)</br>
 ![restaurant](https://github.com/Kapuchinskaya/HTMLstudy/blob/main/screenshots/HTML-rest-1.jpg)</br>
  
 
-and others
+<br/>and others!
