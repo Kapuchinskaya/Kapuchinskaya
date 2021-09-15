@@ -10,7 +10,8 @@
  I have worked in many different sectors including manufacturing, construction, retail and IT, so I am certain I can make a valuable addition to any project I am involved in. 
  I possess good soft skills, have a nice sense of humor, love reading, playing my ukulele, solving puzzles, and drawing illustrations.
 
-##see some of my projects below
+***NOTE: see some screenshots of my projects below***
+
 ------------
 
 ### Skills
