@@ -55,8 +55,15 @@
 # Projects to learn React
 * ManCityHooks - includes firebase, autentication, routes, libraries etc.
 * HappyBday - a landing page
-* ReadingList / SongList / Blog - hooks and context
+* ReadingList / SongList / Blog - hooks and context </br>
 ![ManCity](https://github.com/Kapuchinskaya/ReactJSstudy/blob/main/ManCityHooks/mancity-hooks/screenshots/MS.jpg)
 ![HappyBDay](https://github.com/Kapuchinskaya/ReactJSstudy/blob/main/HappyBday/Bday.jpg)
+
+# Projects to learn HTML and CSS
+* omnifood - project for course *"Build Responsive Real World Websites with HTML5 and CSS3"*
+* restaurant - task for rs-school</br>
+![omnifood](https://github.com/Kapuchinskaya/HTMLstudy/blob/main/screenshots/HTML-omni-1.jpg)</br>
+![restaurant](https://github.com/Kapuchinskaya/HTMLstudy/blob/main/screenshots/HTML-rest-1.jpg)</br>
+ 
 
 and others
