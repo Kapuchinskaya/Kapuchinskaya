@@ -5,7 +5,7 @@
 ------------
 ###  Overview
  I am a front-end developer who is eager to start working in a team.
- My previous experience (senior financial analyst 4+years) taught me to work under pressure, keep deadlines, learn fast and to work in team efficiently.
+ My previous experience (senior financial analyst 4+years) taught me to work under pressure, keep deadlines, learn fast and work efficiently.
  I am a really hard-working and result-oriented person. I never stop improving my skills and investigating new technologies. 
  I have worked in many different sectors including manufacturing, construction, retail and IT, so I am certain I can make a valuable addition to any project I am involved in. 
  I possess good soft skills, have a nice sense of humor, love reading, playing my ululele, solving puzzles and drawing illustrations.
