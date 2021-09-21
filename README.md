@@ -29,6 +29,7 @@
 + **Higher education**
     + Belarus State Economic University, International Economic Relations Faculty
 + **Web development courses**
+    * Data Structures & Algorithms - JavaScript
     * The Complete JavaScript Course 2021: From Zero to Expert!
     * Build Responsive Real World Websites with HTML5 and CSS3
     * React - The Complete Guide (incl Hooks, React Router, Redux)
