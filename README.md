@@ -48,24 +48,24 @@
 ### Some projects overview
 # Long-Term-Bets
 (using TypeScript, ReactJS, Firebase)<br/>
-![LongTermBets](https://github.com/Kapuchinskaya/Long-Term-Bets/blob/main/long-term-bets.jpg)
+[![LongTermBets](https://github.com/Kapuchinskaya/Long-Term-Bets/blob/main/long-term-bets.jpg)](https://github.com/Kapuchinskaya/Long-Term-Bets)
 
 # Kindergarten website
 (using ReactJS, Firebase, material-ui etc.)<br/>
-![Kindergarten](https://github.com/Kapuchinskaya/Kindergarten/blob/main/kindergarten-1.jpg)
+[![Kindergarten](https://github.com/Kapuchinskaya/Kindergarten/blob/main/kindergarten-1.jpg)][https://github.com/Kapuchinskaya/Kindergarten]
 
 # Projects to learn React
 * ManCityHooks - includes firebase, autentication, routes, libraries etc.
 * HappyBday - a landing page
 * ReadingList / SongList / Blog - hooks and context <br/>
-![ManCity](https://github.com/Kapuchinskaya/ReactJSstudy/blob/main/ManCityHooks/mancity-hooks/screenshots/MS.jpg)
-![HappyBDay](https://github.com/Kapuchinskaya/ReactJSstudy/blob/main/HappyBday/Bday.jpg)
+[![ManCity](https://github.com/Kapuchinskaya/ReactJSstudy/blob/main/ManCityHooks/mancity-hooks/screenshots/MS.jpg)][https://github.com/Kapuchinskaya/ReactJSstudy/tree/main/ManCityHooks/mancity-hooks]
+[![HappyBDay](https://github.com/Kapuchinskaya/ReactJSstudy/blob/main/HappyBday/Bday.jpg)][https://github.com/Kapuchinskaya/ReactJSstudy/tree/main/HappyBday]
 
 # Projects to learn HTML and CSS
 * omnifood - project for course *"Build Responsive Real World Websites with HTML5 and CSS3"*
 * restaurant - task for rs-school<br/>
-![omnifood](https://github.com/Kapuchinskaya/HTMLstudy/blob/main/screenshots/HTML-omni-1.jpg)</br>
-![restaurant](https://github.com/Kapuchinskaya/HTMLstudy/blob/main/screenshots/HTML-rest-1.jpg)</br>
+[![omnifood](https://github.com/Kapuchinskaya/HTMLstudy/blob/main/screenshots/HTML-omni-1.jpg)][https://github.com/Kapuchinskaya/HTMLstudy/tree/main/restaraunt]</br>
+[![restaurant](https://github.com/Kapuchinskaya/HTMLstudy/blob/main/screenshots/HTML-rest-1.jpg)][https://github.com/Kapuchinskaya/HTMLstudy/tree/main/omnifood]</br>
  
 
 <br/>and others!
